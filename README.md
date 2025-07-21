@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sanketh S!
+# 👋 Hey there, I'm Sanketh!
 
 🎓 I’m currently in my 3rd year pursuing a Bachelor's degree in **Computer Science and Engineering**.
 
