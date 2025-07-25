@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sanketh!
 
-🎓 I’m currently in my 3rd year pursuing a Bachelor's degree in **Computer Science and Engineering**.
+🎓 I’m currently in my 4th year pursuing a Bachelor's degree in **Computer Science and Engineering**.
 
 💻 Passionate about building real-world projects and constantly learning new technologies. I specialize in:
 - 🧠 **Data Structures & Algorithms (Java)**
